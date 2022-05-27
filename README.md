@@ -4,4 +4,4 @@ connects hosts and travelers and facilitates the process of renting without owni
 itself. Moreover it cultivates a sharing-economy by allowing property owners to rent out 
 private flats. On one side it enables owners to list their space and earn rental money, on the 
 other side it provides travelers easy access to renting private homes.<br>
-Built using : JavaScript, HTML, CSS, NodeJs, ExpressJs, MySQL
+Build using : JavaScript, HTML, CSS, NodeJs, ExpressJs, MySQL
